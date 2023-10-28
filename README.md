@@ -1,4 +1,4 @@
-# Project Description: Proximal Policy Optimization (PPO) for Highway Environment
+# Proximal Policy Optimization (PPO) for Highway Environment
 
 ## Overview
 
